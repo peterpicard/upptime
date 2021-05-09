@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: Bidniss - WWW
+    url: https://www.bidniss.com
   - name: Bidniss - Wifi
     url: https://wifi.bidniss.com
   - name: Bidniss - Public
