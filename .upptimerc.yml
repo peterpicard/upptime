@@ -7,12 +7,12 @@ sites:
     url: https://www.google.com
   - name: Bidniss - WWW
     url: https://www.bidniss.com
-  - name: Bidniss - Wifi
-    url: https://wifi.bidniss.com
   - name: Bidniss - Public
     url: https://public.bidniss.com
-  - name: Bidniss - Test
-    url: http://106.70.24.21
+  - name: Bidniss - Wifi
+    url: https://wifi.bidniss.com
+#   - name: Bidniss - Test
+#     url: http://106.70.24.21
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
