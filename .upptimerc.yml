@@ -9,8 +9,8 @@ sites:
     url: https://public.bidniss.com
   - name: Bidniss - WWW
     url: https://www.bidniss.com
-  - name: Bidniss - Wifi
-    url: https://wifi.bidniss.com
+#   - name: Bidniss - Wifi
+#     url: https://wifi.bidniss.com
 #   - name: Bidniss - Test
 #     url: http://106.70.24.21
 
