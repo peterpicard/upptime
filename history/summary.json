@@ -1,21 +1,23 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
-    "slug": "google",
+    "name": "Bidniss - Public",
+    "url": "https://public.bidniss.com",
+    "icon": "https://favicons.githubusercontent.com/public.bidniss.com",
+    "slug": "bidniss-public",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 111,
-    "timeDay": 111,
-    "timeWeek": 111,
-    "timeMonth": 111,
-    "timeYear": 111,
-    "dailyMinutesDown": {}
+    "uptime": "2.81%",
+    "uptimeDay": "2.81%",
+    "uptimeWeek": "2.81%",
+    "uptimeMonth": "2.81%",
+    "uptimeYear": "2.81%",
+    "time": 681,
+    "timeDay": 681,
+    "timeWeek": 681,
+    "timeMonth": 681,
+    "timeYear": 681,
+    "dailyMinutesDown": {
+      "2021-05-09": 152
+    }
   },
   {
     "name": "Bidniss - WWW",
@@ -28,51 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 334,
-    "timeDay": 334,
-    "timeWeek": 334,
-    "timeMonth": 334,
-    "timeYear": 334,
+    "time": 264,
+    "timeDay": 264,
+    "timeWeek": 264,
+    "timeMonth": 264,
+    "timeYear": 264,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Bidniss - Public",
-    "url": "https://public.bidniss.com",
-    "icon": "https://favicons.githubusercontent.com/public.bidniss.com",
-    "slug": "bidniss-public",
-    "status": "up",
-    "uptime": "0.86%",
-    "uptimeDay": "0.86%",
-    "uptimeWeek": "0.86%",
-    "uptimeMonth": "0.86%",
-    "uptimeYear": "0.86%",
-    "time": 683,
-    "timeDay": 683,
-    "timeWeek": 683,
-    "timeMonth": 683,
-    "timeYear": 683,
-    "dailyMinutesDown": {
-      "2021-05-09": 152
-    }
-  },
-  {
-    "name": "Bidniss - Wifi",
-    "url": "https://wifi.bidniss.com",
-    "icon": "https://favicons.githubusercontent.com/wifi.bidniss.com",
-    "slug": "bidniss-wifi",
-    "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 334,
-    "timeDay": 334,
-    "timeWeek": 334,
-    "timeMonth": 334,
-    "timeYear": 334,
-    "dailyMinutesDown": {
-      "2021-05-09": 104
-    }
   }
 ]
