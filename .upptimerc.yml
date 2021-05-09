@@ -7,8 +7,8 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Bidniss - Wifi
+    url: https://wifi.bidniss.com
   - name: Bidniss - Public
     url: https://public.bidniss.com
 
