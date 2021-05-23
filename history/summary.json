@@ -4,18 +4,19 @@
     "url": "https://public.bidniss.com",
     "icon": "https://favicons.githubusercontent.com/public.bidniss.com",
     "slug": "bidniss-public",
-    "status": "up",
-    "uptime": "97.19%",
+    "status": "down",
+    "uptime": "97.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.19%",
-    "uptimeYear": "97.19%",
+    "uptimeMonth": "97.30%",
+    "uptimeYear": "97.30%",
     "time": 668,
     "timeDay": 633,
     "timeWeek": 650,
     "timeMonth": 668,
     "timeYear": 668,
     "dailyMinutesDown": {
+      "2021-05-23": 0,
       "2021-05-11": 217,
       "2021-05-09": 343
     }
