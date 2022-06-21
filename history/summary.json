@@ -5,14 +5,14 @@
     "icon": "https://favicons.githubusercontent.com/public.bidniss.com",
     "slug": "bidniss-public",
     "status": "up",
-    "uptime": "86.86%",
+    "uptime": "86.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.48%",
     "uptimeYear": "85.48%",
     "time": 662,
-    "timeDay": 583,
-    "timeWeek": 651,
+    "timeDay": 803,
+    "timeWeek": 669,
     "timeMonth": 668,
     "timeYear": 660,
     "dailyMinutesDown": {
@@ -100,10 +100,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 202,
-    "timeDay": 185,
-    "timeWeek": 235,
-    "timeMonth": 199,
-    "timeYear": 205,
+    "timeDay": 84,
+    "timeWeek": 228,
+    "timeMonth": 198,
+    "timeYear": 204,
     "dailyMinutesDown": {}
   }
 ]
