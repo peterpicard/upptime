@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/public.bidniss.com",
     "slug": "bidniss-public",
     "status": "down",
-    "uptime": "82.70%",
+    "uptime": "82.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "17.08%",
+    "uptimeMonth": "15.53%",
     "uptimeYear": "79.09%",
     "time": 682,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1840,
+    "timeMonth": 785,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2022-08-07": 87,
+      "2022-08-08": 83,
+      "2022-08-07": 1440,
       "2022-08-06": 1440,
       "2022-08-05": 1440,
       "2022-08-04": 1440,
@@ -110,8 +111,7 @@
       "2021-08-12": 1440,
       "2021-08-11": 1440,
       "2021-08-10": 1440,
-      "2021-08-09": 1440,
-      "2021-08-08": 1440
+      "2021-08-09": 1440
     }
   },
   {
@@ -126,9 +126,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 199,
-    "timeDay": 181,
+    "timeDay": 169,
     "timeWeek": 163,
-    "timeMonth": 172,
+    "timeMonth": 174,
     "timeYear": 201,
     "dailyMinutesDown": {}
   }
