@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/public.bidniss.com.ico",
     "slug": "bidniss-public",
     "status": "down",
-    "uptime": "46.80%",
+    "uptime": "46.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 735,
+    "time": 736,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-22": 67,
+      "2023-07-23": 72,
+      "2023-07-22": 1440,
       "2023-07-21": 1440,
       "2023-07-20": 1440,
       "2023-07-19": 1440,
@@ -379,8 +380,7 @@
       "2022-07-27": 1440,
       "2022-07-26": 1440,
       "2022-07-25": 1440,
-      "2022-07-24": 1440,
-      "2022-07-23": 1440
+      "2022-07-24": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 189,
-    "timeDay": 95,
-    "timeWeek": 135,
-    "timeMonth": 150,
+    "timeDay": 102,
+    "timeWeek": 132,
+    "timeMonth": 151,
     "timeYear": 187,
     "dailyMinutesDown": {}
   }
