@@ -6,15 +6,15 @@
     "slug": "bidniss-public",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "24.63%",
+    "uptimeDay": "93.06%",
     "uptimeWeek": "88.59%",
     "uptimeMonth": "97.37%",
     "uptimeYear": "0.00%",
-    "time": 488,
-    "timeDay": 557,
-    "timeWeek": 475,
-    "timeMonth": 527,
-    "timeYear": 488,
+    "time": 489,
+    "timeDay": 587,
+    "timeWeek": 488,
+    "timeMonth": 535,
+    "timeYear": 489,
     "dailyMinutesDown": {
       "2026-03-31": 248,
       "2026-03-30": 837,
@@ -267,8 +267,7 @@
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
-      "2025-04-02": 1440,
-      "2025-04-01": 1440
+      "2025-04-02": 1440
     }
   },
   {
@@ -283,9 +282,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 187,
-    "timeDay": 132,
-    "timeWeek": 160,
-    "timeMonth": 214,
+    "timeDay": 172,
+    "timeWeek": 170,
+    "timeMonth": 217,
     "timeYear": 197,
     "dailyMinutesDown": {}
   }
