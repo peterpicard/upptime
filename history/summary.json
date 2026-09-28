@@ -4,16 +4,16 @@
     "url": "http://public.bidniss.com",
     "icon": "https://icons.duckduckgo.com/ip3/public.bidniss.com.ico",
     "slug": "bidniss-public",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.39%",
+    "uptimeYear": "77.60%",
     "time": 470,
     "timeDay": 561,
     "timeWeek": 481,
-    "timeMonth": 471,
+    "timeMonth": 469,
     "timeYear": 470,
     "dailyMinutesDown": {
       "2025-12-03": 688,
@@ -89,7 +89,8 @@
       "2026-03-31": 248,
       "2026-03-30": 837,
       "2026-07-02": 109,
-      "2026-08-13": 74
+      "2026-08-13": 74,
+      "2026-09-28": 0
     }
   },
   {
@@ -106,7 +107,7 @@
     "time": 238,
     "timeDay": 791,
     "timeWeek": 424,
-    "timeMonth": 410,
+    "timeMonth": 399,
     "timeYear": 258,
     "dailyMinutesDown": {}
   }
